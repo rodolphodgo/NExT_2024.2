@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios.iml" filepath="$PROJECT_DIR$/.idea/Exercicios.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/GitHub.iml" filepath="$PROJECT_DIR$/.idea/GitHub.iml" />
+>>>>>>> 74395a5 (Subindo as aulas 2 e 3)
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios.iml" filepath="$PROJECT_DIR$/.idea/Exercicios.iml" />
+>>>>>>> e40a4683376bf31cc4803e572ba8c1f700ca63af
+    </modules>
+  </component>
+</project>

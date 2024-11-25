@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="sdkName" value="Python 3.13 (Exercicios)" />
+  </component>
+=======
+    <option name="sdkName" value="Python 3.13" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13" project-jdk-type="Python SDK" />
+>>>>>>> 74395a5 (Subindo as aulas 2 e 3)
+=======
+    <option name="sdkName" value="Python 3.13 (Exercicios)" />
+  </component>
+>>>>>>> e40a4683376bf31cc4803e572ba8c1f700ca63af
+</project>
