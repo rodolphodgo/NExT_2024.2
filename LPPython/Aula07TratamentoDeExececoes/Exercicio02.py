@@ -1,0 +1,1 @@
+'''Implemente uma função que abra um arquivo para leitura, seguindo informações inseridas pelo usuário, e exiba seu conteúdo. Trate o erro de arquivo não encontrado (FileNotFoundError).'''

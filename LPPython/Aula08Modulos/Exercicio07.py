@@ -1,0 +1,1 @@
+'''Use o módulo csv para refazer as questões do desafio PyFinanceiro e PyVotação, da aula de arquivos. Altere a extensão dos arquivos de .txt para .csv.'''

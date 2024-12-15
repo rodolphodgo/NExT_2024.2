@@ -1,0 +1,1 @@
+'''Crie uma função que receba um dicionário e uma chave, retornando o valor correspondente. Trate o erro de chave inexistente (KeyError).'''

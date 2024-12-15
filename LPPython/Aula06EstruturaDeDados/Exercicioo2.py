@@ -1,0 +1,1 @@
+'''Crie um programa com duas funções. A primeira deve pedir um CEP e o endereço do usuário e armazena-lo em um dicionário. A segunda deve pesquisar um endereço, buscando pelo CEP informado.'''

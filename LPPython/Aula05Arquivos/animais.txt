@@ -1,0 +1,3 @@
+cachorro,terrestre
+ave,ceu
+urso,terrestre
