@@ -1,6 +1,8 @@
-"""Crie uma classe Livro com atributos titulo e autor e um método exibir_informacoes() que imprime o título e o autor.
+"""Enunciado:
+Crie uma classe Livro com atributos titulo e autor e um método exibir_informacoes() que imprime o título e o autor."""
 
-Crie três objetos dessa classe, cada um representando um livro diferente, e chame o método exibir_informacoes() para cada um."""
+"""Requisitos:
+- Crie três objetos dessa classe, cada um representando um livro diferente, e chame o método exibir_informacoes() para cada um."""
 
 class Livro:
     def __init__(self, titulo, autor):

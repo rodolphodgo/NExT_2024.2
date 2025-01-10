@@ -1,0 +1,7 @@
+Crie uma classe Funcionario com atributos cod, nome e salario. Atenção às regras de negócio:
+
+- O salário é um atributo privado, mas deve ser informado no momento de criação da instância.
+- Quando o salário for alterado, não é possível definir um valor menor que o salário atual;
+- Implemente o método aumentar_salario(percentual) que aumenta o salário do funcionário com base em uma porcentagem fornecida;
+- A classe deve manter um histórico dos aumentos aplicados em uma lista. Cada aumento deve ser armazenado com o percentual aplicado e o novo salário após o aumento.
+- Um método exibir_informacoes() deve imprimir os dados do funcionário (nome, cod, salario atual) e o histórico de aumentos.

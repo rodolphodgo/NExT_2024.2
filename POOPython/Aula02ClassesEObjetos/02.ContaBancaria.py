@@ -1,8 +1,10 @@
-"""Crie uma classe ContaBancaria que tenha os atributos titular (str), saldo (float) e os métodos depositar(valor), sacar(valor) e exibir_saldo().
+"""Enunciado:
+Crie uma classe ContaBancaria que tenha os atributos titular (str), saldo (float) e os métodos depositar(valor), sacar(valor) e exibir_saldo()."""
 
-O método depositar deve aumentar o saldo pelo valor informado.
-O método sacar deve diminuir o saldo pelo valor informado, apenas se houver saldo suficiente. Caso contrário, exiba uma mensagem de saldo insuficiente.
-O método exibir_saldo deve imprimir o saldo atual da conta."""
+"""Requisitos:
+- O método depositar deve aumentar o saldo pelo valor informado.
+- O método sacar deve diminuir o saldo pelo valor informado, apenas se houver saldo suficiente. Caso contrário, exiba uma mensagem de saldo insuficiente.
+- O método exibir_saldo deve imprimir o saldo atual da conta."""
 
 class ContaBancaria:
     def __init__(self, titular, saldo):

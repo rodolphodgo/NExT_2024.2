@@ -1,0 +1,21 @@
+Você deve criar um programa que simule um sistema de livraria, onde é possível gerenciar livros e um carrinho de compras. O programa deve ser composto por duas classes principais:
+
+Classe Livro:
+- Representa um livro com os seguintes atributos:
+    - titulo (string): O título do livro.
+    - autor (string): O autor do livro.
+    - preco (float): O preço do livro.
+
+Classe CarrinhoDeCompras:
+- Representa o carrinho de compras com os seguintes atributos e métodos:
+    - livros (lista): Uma lista que armazenará os objetos da classe Livro adicionados ao carrinho.
+    - adicionar_livro(livro): Adiciona um livro ao carrinho.
+    - remover_livro(titulo): Remove um livro do carrinho pelo título.
+    - calcular_total(): Calcula e retorna o valor total de todos os livros no carrinho.
+    - exibir_itens(): Exibe a lista de livros no carrinho, incluindo título, autor e preço.
+
+Regras:
+- O preço do livro deve ser um valor positivo.
+- Um livro com o mesmo título não deve ser adicionado ao carrinho mais de uma vez.
+- Crie métodos para facilitar a manipulação do carrinho.
+- Use boas práticas de encapsulamento, se necessário.

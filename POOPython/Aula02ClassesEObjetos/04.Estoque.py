@@ -1,8 +1,11 @@
-"""Crie uma classe Produto que possui nome, preco e estoque.
+"""Enunciado:
+Crie uma classe Produto que possui nome, preco e estoque."""
 
-Implemente um método adicionar_estoque(quantidade) que adiciona ao estoque a quantidade fornecida.
-Implemente outro método remover_estoque(quantidade) que só remove se houver estoque suficiente; caso contrário, exiba uma mensagem informando que não há estoque suficiente.
-Crie um método exibir_produto() que mostra as informações do produto (nome, preço e estoque)."""
+"""Requisitos:
+- Implemente um método adicionar_estoque(quantidade) que adiciona ao estoque a quantidade fornecida.
+- Implemente outro método remover_estoque(quantidade) que só remove se houver estoque suficiente; caso contrário, exiba uma mensagem informando que não há estoque suficiente.
+- Crie um método exibir_produto() que mostra as informações do produto (nome, preço e estoque).
+- Crie alguns objetos Produto e teste todos os métodos."""
 
 class Produto:
     def __init__(self, nome,preco, estoque):
