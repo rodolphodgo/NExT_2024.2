@@ -1,0 +1,19 @@
+Crie um conjunto de classes que representem formas geométricas bidimensionais. Essas formas vão ser capazes de calcular sua área e perímetro.
+
+- Classe FormaGeometrica:
+    - Métodos:
+        - calcular_area()
+        - calcular_perimetro()
+
+- Classe Retangulo (herda de FormaGeometrica):
+    - Atributos: largura, altura
+    - Métodos:
+        - Sobrescrição de calcular_area() e calcular_perimetro()
+
+- Classe Circulo (herda de FormaGeometrica):
+    - Atributos: raio
+    - Métodos:
+        - Sobrescrição de calcular_area() e calcular_perimetro()
+
+- Teste:
+    - Crie uma lista de formas geométricas diversas e execute o cálculo de área e perímetro de todas elas.
