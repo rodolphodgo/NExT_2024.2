@@ -1,0 +1,1 @@
+//Crie um objeto USER com informações de nome, idade e cidade, e um array de hobbys, atualize as informações desse array com novas informações

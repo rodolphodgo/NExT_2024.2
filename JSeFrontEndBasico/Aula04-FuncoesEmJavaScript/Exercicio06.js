@@ -1,0 +1,1 @@
+//Escreva uma função chamada todosPositivos que receba um array de números e retorne true se todos forem positivos, ou false caso contrário. Use every.
